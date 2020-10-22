@@ -5582,6 +5582,11 @@ react-is@^16.12.0, react-is@^16.8.1, react-is@^16.8.4, react-is@^16.8.6:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
+react-native-notifications@^3.3.4:
+  version "3.3.4"
+  resolved "https://registry.yarnpkg.com/react-native-notifications/-/react-native-notifications-3.3.4.tgz#ade029e623380113f06f8d5b7759ad36e27c9566"
+  integrity sha512-oJuuUxKh/82HI7kgWUBlxf3d0/ngfX1Lp1meeESySA6u0I+jeTS0EOPDAVD6bGrfAywCi3d4elY7QbGTy6MWGQ==
+
 react-native@0.63.3:
   version "0.63.3"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.63.3.tgz#4a7f6540e049ff41810887bbd1125abc4672f3bf"

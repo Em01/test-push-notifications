@@ -23,6 +23,7 @@ import {
   DebugInstructions,
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
+import PushNotifications from './PushNotifications'
 
 const App: () => React$Node = () => {
   return (
@@ -66,6 +67,7 @@ const App: () => React$Node = () => {
             </View>
             <LearnMoreLinks />
           </View>
+        <PushNotifications/>
         </ScrollView>
       </SafeAreaView>
     </>
